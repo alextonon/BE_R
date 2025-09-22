@@ -1,0 +1,10 @@
+### EDA
+
+Présentation de la taille du dataset etc (nb de stations, periode temporelle...)
+
+Afficahge des stations sur unne carte (package R ggmap voir ChatGPT)
+
+Moyenne temperature en faisant des groupby par region / par mois / par an
+
+### Estimateur
+
